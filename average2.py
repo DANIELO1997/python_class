@@ -40,7 +40,6 @@ if opcion == "3" :
     if monto == "1" :
         saldo = saldo-10000
         print("retiro exitoso ")
-        break
     if monto == "2" :
         saldo = saldo-20000
         print("retiro exitoso")
@@ -62,5 +61,4 @@ if opcion == "3" :
     if monto == "8" :
         saldo = saldo-1000000
         print("retiro exitoso")
-break
     
